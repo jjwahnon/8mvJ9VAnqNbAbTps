@@ -1,0 +1,9 @@
+,category_x,location_type,location,context,outcome_status,persistent_id,id,location_subtype,month,status,category_y,severity,offence_code,sev-cat
+0,public-order,,,,"{'category': 'Unable to prosecute suspect', 'date': '2024-03'}",32018c0c11ec6f022a1060e43acdcaa1ade04c9efc4f894bbeb849f10d9038c5,117349414,,2024-03,Unable to prosecute suspect,public-order,4,P0R9D,high
+1,public-order,,,,"{'category': 'Court result unavailable', 'date': '2024-09'}",4118d2f469c00a89f2c8cb28da36243a9fb5799ba441cda678f244a85d30b696,117345855,,2024-03,Court result unavailable,public-order,3,P0R9D,medium
+2,public-order,,,,"{'category': 'Unable to prosecute suspect', 'date': '2024-06'}",abcfb09ea84fa73a5c2a0ab8df94f40dd2fdc5bcdb1758a53a365f3e8c190e7d,117353950,,2024-03,Unable to prosecute suspect,public-order,4,P0R9D,high
+3,public-order,,,,"{'category': 'Court result unavailable', 'date': '2025-06'}",cd4307e893c2bd1ef52c78ad30d8c6576a4f09305524351e1262f5e0bb51b136,117352865,,2024-03,Court result unavailable,public-order,3,P0R9D,medium
+4,public-order,,,,"{'category': 'Unable to prosecute suspect', 'date': '2024-04'}",71493a6377fafa526e4e00dafb355022f34e64ae53a3a9f200f8c3b3d275f031,117352174,,2024-03,Unable to prosecute suspect,public-order,2,P0R9D,low
+5,public-order,,,,"{'category': 'Court result unavailable', 'date': '2025-02'}",b214e10ead5a6695e76d91d8f02aa568ec366e94b0d7d0d7378be696a02ee8ce,117351892,,2024-03,Court result unavailable,public-order,3,P0R9D,medium
+6,public-order,,,,"{'category': 'Court result unavailable', 'date': '2025-01'}",be0eaf1c7f36ff24564d26d59e151bb2f0da171587ac24a584ddee3dfc281165,117347447,,2024-03,Court result unavailable,public-order,3,P0R9D,medium
+7,public-order,,,,"{'category': 'Unable to prosecute suspect', 'date': '2024-03'}",bd2b3e93e115d634b464483d8666ce34197f6b948423c4e5daeb864a725295dc,117352294,,2024-03,Unable to prosecute suspect,public-order,2,P0R9D,low
