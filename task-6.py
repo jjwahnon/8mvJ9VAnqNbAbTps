@@ -34,8 +34,12 @@ def find_open_late_offences(
     return open_late_offences
 
 
-def inFuture(fun_date:datetime.date) -> bool:
-    return fun_date <= date.today()
+class TestCase(unittest.TestCase):
+    def is_late(self):
+        find_open_late_offences(late_offence_data, date(2024, 5, 1))
+        self.assertRaises(ValueError)
+
+
 
 if __name__=="__main__":
     fun_date= date(2024, 5, 1)
@@ -52,5 +56,7 @@ if __name__=="__main__":
         },
         ]
     data = find_open_late_offences(late_offence_data, fun_date)
-    future=inFuture(fun_date)
+    test=TestCase()
+    test.is_late()
+ 
     pass
